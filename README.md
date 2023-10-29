@@ -8,6 +8,8 @@
  Tu nombre sera guardado junto a tu puntuación en una lista de jugadores.
  Hay que decir, que a más preguntas necesites, menos puntos obtendrás.
 
+ El juego te crear 3 archivos .txt, uno para guardar el personaje elegido (no lo mires a la hora de jugar, trampos@), otro guarda tu nombre cuando acabes el juego, y otro la puntuación.
+
  Es un programita muy simple que se realizó para una practica con JAVA en el curso 2022-2023 de DAW Online.
 
  Si vieras algun error o algo que se podría mejorar, no dudes en hacermelo saber, a fin de cuentas, todo en esta vida se puede mejorar.
